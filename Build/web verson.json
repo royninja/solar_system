@@ -1,0 +1,14 @@
+{
+"companyName": "Royninja",
+"productName": "Earth Simulator",
+"dataUrl": "web verson.data.unityweb",
+"wasmCodeUrl": "web verson.wasm.code.unityweb",
+"wasmFrameworkUrl": "web verson.wasm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "web verson.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
